@@ -1,9 +1,11 @@
 [![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bishal Ghosh</h1>
 <h3 align="center">A passionate about AI/ML and software devlopment</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal0416" alt="bishal0416" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 - 🔭 I’m currently working on **Diseases Detection**
 
