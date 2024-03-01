@@ -1,9 +1,9 @@
 [![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)](https://rishavchanda.io)
+[![An image of @bishal0416's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bishal0416)](https://holopin.io/@bishal0416)
+
 <h1 align="center">Hi 👋, I'm Bishal Ghosh</h1>
 <h3 align="center">A passionate about AI/ML and software devlopment</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal0416" alt="bishal0416" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
