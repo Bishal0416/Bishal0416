@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Bishal Ghosh</h1>
 <h3 align="center">A passionate about AI/ML and software devlopment</h3>
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24594%26project%3D%26in=2592000000">
 
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
